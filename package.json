@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@web/dev-server": "^0.1.29"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --app-index index.html --open"
+  },
+  "dependencies": {
+    "@vaadin/router": "^1.7.4",
+    "lit": "^2.1.3"
+  }
+}
